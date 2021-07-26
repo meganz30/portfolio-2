@@ -1,0 +1,31 @@
+.redCenter {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+.purpleLeft {
+    color: purple;
+    font-weight: bold;
+}
+
+body {
+    background-color: lightblue;
+}
+
+#uniqueFont {
+    color: yellow;
+}
+
+
+/*  p {
+    color: red;
+    text-align: center;
+}*/
+
+.boxModel {
+    width: 300px;
+    border:15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
